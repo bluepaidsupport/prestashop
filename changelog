@@ -1,0 +1,23 @@
+*** V.3.0 2016-09-19 *******
+V.3.0
+- Révision du code - Ajout d'un système de logs
+- Modification de l'interface d'administration du module
+V.2.10
+RÈvisions - modifications template payment
+V 2.9.8.5
+Transmission du code ISO langue de l'utilisateur
+V 2.9.8.4
+Corrections
+V 2.9.8.3
+Test identifiant boutique + montant avant appel page de paiement
+V2.9.3 --- V2.9.7
+RÈvision
+V2.9.2
+Ajout de vÈrifications lors de l'appel au fichier de confirmations de commandes
+VÈrification de l'iedntifiant commerÁant retournÈ
+V2.9.1
+- RÈtro-compatibilitÈ avec versions Prestashop < 1.6
+- Ajout des urls de retours dynamiques
+V2.8
+- Ajout d'un champ de configuation pemrttant un accËs restreint aux serveurs appelant le fhcier de confirmation de commande
+- AccËes restreint aux appels en mÈthode POST pour l'url de confirmation.
